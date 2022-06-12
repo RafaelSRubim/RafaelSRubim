@@ -1,4 +1,4 @@
-## Oi eu sou o Rafael Rubim, criadora de conteúdo de programação e tecnologia!
+## Oi eu sou o Rafael Rubim!
 <div align="center">
   <a href="https://github.com/rafaelsrubim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsrubim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
